@@ -1,0 +1,73 @@
+what would we want in a program:
+
+	visualization of: income > breakdown into accounts > expenses
+		represent interest on accounts and frequency of income and expenses
+		a way to group one-time expenses in a category or to show them seperately
+
+	a way to set sources of income and the period/frequency at which they come
+	including one-time sources of income like bonuses or gifts
+
+	a way to set expenses and the period/frequency at which they come
+	including one-time sources of expenses
+
+✅	a way to visualize the amount of total money in each account at a certain date/time
+	in the past and future predictions based on math
+
+	a way to save the information and periodically create backups
+
+	a way to export to a spreadsheet (CSV or XLSX)
+	maybe a way to import from a CSV or XLSX to the program
+
+	a way to set a goal:
+		date we need the full amount by,
+		amount of money the goal costs,
+		length of period
+		>> which shows that amount of money we would need to put towards the goal every {period_length}
+
+
+I want to plot a Sankey plot/diagram
+
+Pool:
+	Just stores money
+	Measures money within the pool anytime there's a change
+	Calculates averages and all data needed
+
+Stream:
+	Represents money moving to and from Pools
+	Can only take from one Pool
+	Can distribute to many Pools
+
+
+Keep inflation data updated and accounted for
+Use AI / math to make predictions for yearly / monthly / weekly expenses. Allow manual override and manual input
+	Use history to make predictions
+Credit Card statements should have their expenses labelled with things like "restaurants", "groceries", "games", "car", etc.
+	This might come from the bank itself
+	Or we can use some kind of classification AI/ML model with manually labelled data to label the statements
+Bank API to keep account balances up-to-date
+Ability to search across accounts, expenses, incomes and see data related
+	For expenses I want to see weekly average, monthly average, yearly average, num times appeared, total amount, etc. And all the
+	times that expense showed up
+	For accounts I want to see the same kind of weekly, monthly, yearly trends and future predictions in income, expenses, etc.
+	For income I pretty much want the same things to show up as expenses
+Should be able to rename and create labels for things, with a tree-like structure for the labels
+Things should also be able to have more than one label or be unlabeled
+Should be able to make calculations based off of labels
+	Because we want to label things like taxable vs not-taxable and income or tfsa contributions or travel or cashflow or credit cards
+	or gas etc.
+	To calculate things like net worth and assets and liabilities
+	Grouping things like house stuff and car stuff and travel
+	Calculate average label value over week, month, year. So a tree-like structure 
+Maybe the ability to "retire" labels if there's never going to be any more payments with that kind of thing labeled.
+	Like if there's a label like "Japan 2023" we're obviously not going to label anything more with that after the trip stuff is
+	dealt with.
+Currency exchange rate by default according to my bank, otherwise according to a different source?
+
+A way to enter private mode, where important numbers and names are hidden when toggled on
+
+
+
+How do we represent future predictions? Things don't stay constant. Like salary grows or changes and we could use a way to plan those
+kinds of things.
+	Maybe for now we just start by representing past and current data and don't worry about future predictions and have that as an update
+	for the future.
