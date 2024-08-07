@@ -1,0 +1,1597 @@
+{
+    "accounts": [
+        {
+            "name": "Savings",
+            "current_balance": 612.35,
+            "transactions": [
+                {
+                    "Time": 1714708800.0,
+                    "Change": -246.93,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC",
+                    "Final Balance": 612.35,
+                    "Starting Balance": 859.28
+                },
+                {
+                    "Time": 1714449600.0,
+                    "Change": 0.01,
+                    "Description": "[IN]",
+                    "Final Balance": 859.28,
+                    "Starting Balance": 859.27
+                },
+                {
+                    "Time": 1714449600.0,
+                    "Change": -1000.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 859.27,
+                    "Starting Balance": 1859.27
+                },
+                {
+                    "Time": 1714449600.0,
+                    "Change": -1757.6,
+                    "Description": "[CW] TF 3741#3970-848",
+                    "Final Balance": 1859.27,
+                    "Starting Balance": 3616.87
+                },
+                {
+                    "Time": 1714449600.0,
+                    "Change": 968.8,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20241211224591142",
+                    "Final Balance": 3616.87,
+                    "Starting Balance": 2648.0699999999997
+                },
+                {
+                    "Time": 1714104000.0,
+                    "Change": -1000.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 2648.0699999999997,
+                    "Starting Balance": 3648.0699999999997
+                },
+                {
+                    "Time": 1714017600.0,
+                    "Change": 1295.13,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 3648.0699999999997,
+                    "Starting Balance": 2352.9399999999996
+                },
+                {
+                    "Time": 1713153600.0,
+                    "Change": 225.0,
+                    "Description": "[DN]CDACARBONREBATE CCR/RCC",
+                    "Final Balance": 2352.9399999999996,
+                    "Starting Balance": 2127.9399999999996
+                },
+                {
+                    "Time": 1712721600.0,
+                    "Change": -1000.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 2127.9399999999996,
+                    "Starting Balance": 3127.9399999999996
+                },
+                {
+                    "Time": 1712721600.0,
+                    "Change": 1295.13,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 3127.9399999999996,
+                    "Starting Balance": 1832.8099999999995
+                },
+                {
+                    "Time": 1712635200.0,
+                    "Change": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS",
+                    "Final Balance": 1832.8099999999995,
+                    "Starting Balance": 2021.0599999999995
+                },
+                {
+                    "Time": 1712289600.0,
+                    "Change": 250.0,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    PETER KAPELUCK           20240961634049103",
+                    "Final Balance": 2021.0599999999995,
+                    "Starting Balance": 1771.0599999999995
+                },
+                {
+                    "Time": 1712289600.0,
+                    "Change": 124.0,
+                    "Description": "[DN]CANADA          GST/TPS",
+                    "Final Balance": 1771.0599999999995,
+                    "Starting Balance": 1647.0599999999995
+                },
+                {
+                    "Time": 1712116800.0,
+                    "Change": 69.41,
+                    "Description": "[DN]CANADA          RIT/RIF",
+                    "Final Balance": 1647.0599999999995,
+                    "Starting Balance": 1577.6499999999994
+                },
+                {
+                    "Time": 1712030400.0,
+                    "Change": -86.06,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC",
+                    "Final Balance": 1577.6499999999994,
+                    "Starting Balance": 1663.7099999999994
+                },
+                {
+                    "Time": 1711598400.0,
+                    "Change": 0.01,
+                    "Description": "[IN]",
+                    "Final Balance": 1663.7099999999994,
+                    "Starting Balance": 1663.6999999999994
+                },
+                {
+                    "Time": 1711512000.0,
+                    "Change": -8000.0,
+                    "Description": "[DS]        EQ BANK MSP/DIV",
+                    "Final Balance": 1663.6999999999994,
+                    "Starting Balance": 9663.699999999999
+                },
+                {
+                    "Time": 1711512000.0,
+                    "Change": 8000.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 9663.699999999999,
+                    "Starting Balance": 1663.699999999999
+                },
+                {
+                    "Time": 1711339200.0,
+                    "Change": -1000.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1663.699999999999,
+                    "Starting Balance": 2663.699999999999
+                },
+                {
+                    "Time": 1711339200.0,
+                    "Change": 1295.13,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2663.699999999999,
+                    "Starting Balance": 1368.5699999999988
+                },
+                {
+                    "Time": 1710129600.0,
+                    "Change": 376.5,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20240711415865841",
+                    "Final Balance": 1368.5699999999988,
+                    "Starting Balance": 992.0699999999988
+                },
+                {
+                    "Time": 1710129600.0,
+                    "Change": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS",
+                    "Final Balance": 992.0699999999988,
+                    "Starting Balance": 1180.3199999999988
+                },
+                {
+                    "Time": 1710129600.0,
+                    "Change": -30.0,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     RONY PAIN                20240701218A45619",
+                    "Final Balance": 1180.3199999999988,
+                    "Starting Balance": 1210.3199999999988
+                },
+                {
+                    "Time": 1709874000.0,
+                    "Change": -1300.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1210.3199999999988,
+                    "Starting Balance": 2510.319999999999
+                },
+                {
+                    "Time": 1709874000.0,
+                    "Change": 1295.13,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2510.319999999999,
+                    "Starting Balance": 1215.1899999999987
+                },
+                {
+                    "Time": 1709614800.0,
+                    "Change": -106.52,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC",
+                    "Final Balance": 1215.1899999999987,
+                    "Starting Balance": 1321.7099999999987
+                },
+                {
+                    "Time": 1709182800.0,
+                    "Change": 0.01,
+                    "Description": "[IN]",
+                    "Final Balance": 1321.7099999999987,
+                    "Starting Balance": 1321.6999999999987
+                },
+                {
+                    "Time": 1708664400.0,
+                    "Change": -1300.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1321.6999999999987,
+                    "Starting Balance": 2621.699999999999
+                },
+                {
+                    "Time": 1708664400.0,
+                    "Change": 1295.13,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2621.699999999999,
+                    "Starting Balance": 1326.5699999999988
+                },
+                {
+                    "Time": 1707714000.0,
+                    "Change": -1000.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1326.5699999999988,
+                    "Starting Balance": 2326.569999999999
+                },
+                {
+                    "Time": 1707454800.0,
+                    "Change": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS",
+                    "Final Balance": 2326.569999999999,
+                    "Starting Balance": 2514.819999999999
+                },
+                {
+                    "Time": 1707454800.0,
+                    "Change": 1295.13,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2514.819999999999,
+                    "Starting Balance": 1219.6899999999987
+                },
+                {
+                    "Time": 1706850000.0,
+                    "Change": -191.74,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC",
+                    "Final Balance": 1219.6899999999987,
+                    "Starting Balance": 1411.4299999999987
+                },
+                {
+                    "Time": 1706677200.0,
+                    "Change": 0.01,
+                    "Description": "[IN]",
+                    "Final Balance": 1411.4299999999987,
+                    "Starting Balance": 1411.4199999999987
+                },
+                {
+                    "Time": 1706158800.0,
+                    "Change": -1500.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1411.4199999999987,
+                    "Starting Balance": 2911.4199999999987
+                },
+                {
+                    "Time": 1706158800.0,
+                    "Change": 1295.13,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2911.4199999999987,
+                    "Starting Balance": 1616.2899999999986
+                },
+                {
+                    "Time": 1705986000.0,
+                    "Change": -2305.21,
+                    "Description": "[CW] TF 3741#3970-848",
+                    "Final Balance": 1616.2899999999986,
+                    "Starting Balance": 3921.4999999999986
+                },
+                {
+                    "Time": 1705986000.0,
+                    "Change": 2305.21,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    ERIC J KAPELUCK          20240231403139730",
+                    "Final Balance": 3921.4999999999986,
+                    "Starting Balance": 1616.2899999999986
+                },
+                {
+                    "Time": 1705640400.0,
+                    "Change": 15.35,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20240191926122978",
+                    "Final Balance": 1616.2899999999986,
+                    "Starting Balance": 1600.9399999999987
+                },
+                {
+                    "Time": 1705294800.0,
+                    "Change": 193.0,
+                    "Description": "[DN]CANADA          CAI/IAC",
+                    "Final Balance": 1600.9399999999987,
+                    "Starting Balance": 1407.9399999999987
+                },
+                {
+                    "Time": 1704862800.0,
+                    "Change": -1500.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1407.9399999999987,
+                    "Starting Balance": 2907.9399999999987
+                },
+                {
+                    "Time": 1704862800.0,
+                    "Change": 1182.03,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2907.9399999999987,
+                    "Starting Balance": 1725.9099999999987
+                },
+                {
+                    "Time": 1704862800.0,
+                    "Change": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 1725.9099999999987,
+                    "Starting Balance": 1659.9099999999987
+                },
+                {
+                    "Time": 1704776400.0,
+                    "Change": 376.5,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20240091148699983",
+                    "Final Balance": 1659.9099999999987,
+                    "Starting Balance": 1283.4099999999987
+                },
+                {
+                    "Time": 1704776400.0,
+                    "Change": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS",
+                    "Final Balance": 1283.4099999999987,
+                    "Starting Balance": 1471.6599999999987
+                },
+                {
+                    "Time": 1704430800.0,
+                    "Change": 124.0,
+                    "Description": "[DN]CANADA          GST/TPS",
+                    "Final Balance": 1471.6599999999987,
+                    "Starting Balance": 1347.6599999999987
+                },
+                {
+                    "Time": 1704258000.0,
+                    "Change": -321.63,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC",
+                    "Final Balance": 1347.6599999999987,
+                    "Starting Balance": 1669.2899999999986
+                },
+                {
+                    "Time": 1703826000.0,
+                    "Change": 0.01,
+                    "Description": "[IN]",
+                    "Final Balance": 1669.2899999999986,
+                    "Starting Balance": 1669.2799999999986
+                },
+                {
+                    "Time": 1703826000.0,
+                    "Change": 200.0,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20233631759614728",
+                    "Final Balance": 1669.2799999999986,
+                    "Starting Balance": 1469.2799999999986
+                },
+                {
+                    "Time": 1703221200.0,
+                    "Change": -1500.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1469.2799999999986,
+                    "Starting Balance": 2969.279999999999
+                },
+                {
+                    "Time": 1703221200.0,
+                    "Change": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2969.279999999999,
+                    "Starting Balance": 2903.279999999999
+                },
+                {
+                    "Time": 1703221200.0,
+                    "Change": 1182.23,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2903.279999999999,
+                    "Starting Balance": 1721.0499999999988
+                },
+                {
+                    "Time": 1702962000.0,
+                    "Change": -38.26,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     RONY PAIN                20233531850CE40EB",
+                    "Final Balance": 1721.0499999999988,
+                    "Starting Balance": 1759.3099999999988
+                },
+                {
+                    "Time": 1702962000.0,
+                    "Change": 120.15,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20233531133407514",
+                    "Final Balance": 1759.3099999999988,
+                    "Starting Balance": 1639.1599999999987
+                },
+                {
+                    "Time": 1702270800.0,
+                    "Change": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS",
+                    "Final Balance": 1639.1599999999987,
+                    "Starting Balance": 1827.4099999999987
+                },
+                {
+                    "Time": 1702270800.0,
+                    "Change": -500.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1827.4099999999987,
+                    "Starting Balance": 2327.409999999999
+                },
+                {
+                    "Time": 1702011600.0,
+                    "Change": 1182.22,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2327.409999999999,
+                    "Starting Balance": 1145.189999999999
+                },
+                {
+                    "Time": 1702011600.0,
+                    "Change": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 1145.189999999999,
+                    "Starting Balance": 1079.189999999999
+                },
+                {
+                    "Time": 1701752400.0,
+                    "Change": 50.0,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    DAVID KAPELUCK           20233391526521139",
+                    "Final Balance": 1079.189999999999,
+                    "Starting Balance": 1029.189999999999
+                },
+                {
+                    "Time": 1701752400.0,
+                    "Change": -255.04,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC",
+                    "Final Balance": 1029.189999999999,
+                    "Starting Balance": 1284.2299999999989
+                },
+                {
+                    "Time": 1701320400.0,
+                    "Change": 0.01,
+                    "Description": "[IN]",
+                    "Final Balance": 1284.2299999999989,
+                    "Starting Balance": 1284.219999999999
+                },
+                {
+                    "Time": 1700802000.0,
+                    "Change": -1500.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1284.219999999999,
+                    "Starting Balance": 2784.219999999999
+                },
+                {
+                    "Time": 1700802000.0,
+                    "Change": 1182.23,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2784.219999999999,
+                    "Starting Balance": 1601.9899999999989
+                },
+                {
+                    "Time": 1700802000.0,
+                    "Change": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 1601.9899999999989,
+                    "Starting Balance": 1535.9899999999989
+                },
+                {
+                    "Time": 1700715600.0,
+                    "Change": 70.0,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20233271548160001",
+                    "Final Balance": 1535.9899999999989,
+                    "Starting Balance": 1465.9899999999989
+                },
+                {
+                    "Time": 1700456400.0,
+                    "Change": -7000.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1465.9899999999989,
+                    "Starting Balance": 8465.989999999998
+                },
+                {
+                    "Time": 1700197200.0,
+                    "Change": 6806.83,
+                    "Description": "[DN]        EQ BANK MSP/DIV",
+                    "Final Balance": 8465.989999999998,
+                    "Starting Balance": 1659.159999999998
+                },
+                {
+                    "Time": 1699938000.0,
+                    "Change": -500.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1659.159999999998,
+                    "Starting Balance": 2159.159999999998
+                },
+                {
+                    "Time": 1699592400.0,
+                    "Change": -1000.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 2159.159999999998,
+                    "Starting Balance": 3159.159999999998
+                },
+                {
+                    "Time": 1699592400.0,
+                    "Change": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 3159.159999999998,
+                    "Starting Balance": 3093.159999999998
+                },
+                {
+                    "Time": 1699592400.0,
+                    "Change": 1182.22,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 3093.159999999998,
+                    "Starting Balance": 1910.939999999998
+                },
+                {
+                    "Time": 1699506000.0,
+                    "Change": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS",
+                    "Final Balance": 1910.939999999998,
+                    "Starting Balance": 2099.189999999998
+                },
+                {
+                    "Time": 1698897600.0,
+                    "Change": -1241.14,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC",
+                    "Final Balance": 2099.189999999998,
+                    "Starting Balance": 3340.329999999998
+                },
+                {
+                    "Time": 1698724800.0,
+                    "Change": 0.01,
+                    "Description": "[IN]",
+                    "Final Balance": 3340.329999999998,
+                    "Starting Balance": 3340.319999999998
+                },
+                {
+                    "Time": 1698292800.0,
+                    "Change": 245.0,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20232991550377218",
+                    "Final Balance": 3340.319999999998,
+                    "Starting Balance": 3095.319999999998
+                },
+                {
+                    "Time": 1698206400.0,
+                    "Change": 1182.23,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 3095.319999999998,
+                    "Starting Balance": 1913.0899999999979
+                },
+                {
+                    "Time": 1698206400.0,
+                    "Change": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 1913.0899999999979,
+                    "Starting Balance": 1847.0899999999979
+                },
+                {
+                    "Time": 1697169600.0,
+                    "Change": 193.0,
+                    "Description": "[DN]CANADA          CAI/IAC",
+                    "Final Balance": 1847.0899999999979,
+                    "Starting Balance": 1654.0899999999979
+                },
+                {
+                    "Time": 1696996800.0,
+                    "Change": -800.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1654.0899999999979,
+                    "Starting Balance": 2454.089999999998
+                },
+                {
+                    "Time": 1696910400.0,
+                    "Change": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS",
+                    "Final Balance": 2454.089999999998,
+                    "Starting Balance": 2642.339999999998
+                },
+                {
+                    "Time": 1696910400.0,
+                    "Change": 1182.22,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2642.339999999998,
+                    "Starting Balance": 1460.1199999999978
+                },
+                {
+                    "Time": 1696910400.0,
+                    "Change": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 1460.1199999999978,
+                    "Starting Balance": 1394.1199999999978
+                },
+                {
+                    "Time": 1696478400.0,
+                    "Change": 124.0,
+                    "Description": "[DN]CANADA          GST/TPS",
+                    "Final Balance": 1394.1199999999978,
+                    "Starting Balance": 1270.1199999999978
+                },
+                {
+                    "Time": 1696392000.0,
+                    "Change": -239.55,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC",
+                    "Final Balance": 1270.1199999999978,
+                    "Starting Balance": 1509.6699999999978
+                },
+                {
+                    "Time": 1695960000.0,
+                    "Change": 0.01,
+                    "Description": "[IN]",
+                    "Final Balance": 1509.6699999999978,
+                    "Starting Balance": 1509.6599999999978
+                },
+                {
+                    "Time": 1695614400.0,
+                    "Change": -800.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1509.6599999999978,
+                    "Starting Balance": 2309.659999999998
+                },
+                {
+                    "Time": 1695614400.0,
+                    "Change": 1182.23,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2309.659999999998,
+                    "Starting Balance": 1127.429999999998
+                },
+                {
+                    "Time": 1695614400.0,
+                    "Change": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 1127.429999999998,
+                    "Starting Balance": 1061.429999999998
+                },
+                {
+                    "Time": 1695182400.0,
+                    "Change": -2305.21,
+                    "Description": "[CW] TF 3741#3970-848",
+                    "Final Balance": 1061.429999999998,
+                    "Starting Balance": 3366.639999999998
+                },
+                {
+                    "Time": 1694404800.0,
+                    "Change": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS",
+                    "Final Balance": 3366.639999999998,
+                    "Starting Balance": 3554.889999999998
+                },
+                {
+                    "Time": 1694145600.0,
+                    "Change": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 3554.889999999998,
+                    "Starting Balance": 2300.509999999998
+                },
+                {
+                    "Time": 1693886400.0,
+                    "Change": -330.65,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC",
+                    "Final Balance": 2300.509999999998,
+                    "Starting Balance": 2631.159999999998
+                },
+                {
+                    "Time": 1693454400.0,
+                    "Change": 0.01,
+                    "Description": "[IN]",
+                    "Final Balance": 2631.159999999998,
+                    "Starting Balance": 2631.149999999998
+                },
+                {
+                    "Time": 1692936000.0,
+                    "Change": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2631.149999999998,
+                    "Starting Balance": 1376.7699999999977
+                },
+                {
+                    "Time": 1692590400.0,
+                    "Change": -50.0,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     RONY PAIN                202323117516F6994",
+                    "Final Balance": 1376.7699999999977,
+                    "Starting Balance": 1426.7699999999977
+                },
+                {
+                    "Time": 1692158400.0,
+                    "Change": -8000.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1426.7699999999977,
+                    "Starting Balance": 9426.769999999997
+                },
+                {
+                    "Time": 1692072000.0,
+                    "Change": 7934.8,
+                    "Description": "[DN]        EQ BANK MSP/DIV",
+                    "Final Balance": 9426.769999999997,
+                    "Starting Balance": 1491.9699999999966
+                },
+                {
+                    "Time": 1691726400.0,
+                    "Change": -1000.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1491.9699999999966,
+                    "Starting Balance": 2491.9699999999966
+                },
+                {
+                    "Time": 1691640000.0,
+                    "Change": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2491.9699999999966,
+                    "Starting Balance": 1237.5899999999965
+                },
+                {
+                    "Time": 1691553600.0,
+                    "Change": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS",
+                    "Final Balance": 1237.5899999999965,
+                    "Starting Balance": 1425.8399999999965
+                },
+                {
+                    "Time": 1690948800.0,
+                    "Change": -127.63,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC",
+                    "Final Balance": 1425.8399999999965,
+                    "Starting Balance": 1553.4699999999966
+                },
+                {
+                    "Time": 1690776000.0,
+                    "Change": 0.02,
+                    "Description": "[IN]",
+                    "Final Balance": 1553.4699999999966,
+                    "Starting Balance": 1553.4499999999966
+                },
+                {
+                    "Time": 1690516800.0,
+                    "Change": -1956.19,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     DAD                      2023209135728B77F",
+                    "Final Balance": 1553.4499999999966,
+                    "Starting Balance": 3509.6399999999967
+                },
+                {
+                    "Time": 1690430400.0,
+                    "Change": -8000.0,
+                    "Description": "[DS]        EQ BANK MSP/DIV",
+                    "Final Balance": 3509.6399999999967,
+                    "Starting Balance": 11509.639999999996
+                },
+                {
+                    "Time": 1690344000.0,
+                    "Change": -42000.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 11509.639999999996,
+                    "Starting Balance": 53509.64
+                },
+                {
+                    "Time": 1690344000.0,
+                    "Change": 50000.0,
+                    "Description": "[TF]2691-8027-528 2691",
+                    "Final Balance": 53509.64,
+                    "Starting Balance": 3509.6399999999994
+                },
+                {
+                    "Time": 1690257600.0,
+                    "Change": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 3509.6399999999994,
+                    "Starting Balance": 2255.2599999999993
+                },
+                {
+                    "Time": 1689307200.0,
+                    "Change": 193.0,
+                    "Description": "[DN]CANADA          CAI/IAC",
+                    "Final Balance": 2255.2599999999993,
+                    "Starting Balance": 2062.2599999999993
+                },
+                {
+                    "Time": 1689134400.0,
+                    "Change": 1956.19,
+                    "Description": "[CW]INTERAC ETRNSFR CANCEL   DAD                      2023193153374B995",
+                    "Final Balance": 2062.2599999999993,
+                    "Starting Balance": 106.06999999999925
+                },
+                {
+                    "Time": 1689134400.0,
+                    "Change": -1956.19,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     DAD                      202319314597E0CA4",
+                    "Final Balance": 106.06999999999925,
+                    "Starting Balance": 2062.2599999999993
+                },
+                {
+                    "Time": 1689134400.0,
+                    "Change": 100.0,
+                    "Description": "[CW] TF 3741#3970-848",
+                    "Final Balance": 2062.2599999999993,
+                    "Starting Balance": 1962.2599999999993
+                },
+                {
+                    "Time": 1688961600.0,
+                    "Change": -194.42,
+                    "Description": "[DS]THE PERSONAL    INS/ASS",
+                    "Final Balance": 1962.2599999999993,
+                    "Starting Balance": 2156.6799999999994
+                },
+                {
+                    "Time": 1688961600.0,
+                    "Change": -612.81,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     DAD                      202318918411B2739",
+                    "Final Balance": 2156.6799999999994,
+                    "Starting Balance": 2769.4899999999993
+                },
+                {
+                    "Time": 1688961600.0,
+                    "Change": -800.0,
+                    "Description": "[CW] TF 3741#3970-848",
+                    "Final Balance": 2769.4899999999993,
+                    "Starting Balance": 3569.4899999999993
+                },
+                {
+                    "Time": 1688961600.0,
+                    "Change": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 3569.4899999999993,
+                    "Starting Balance": 2315.109999999999
+                },
+                {
+                    "Time": 1688529600.0,
+                    "Change": -664.12,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC",
+                    "Final Balance": 2315.109999999999,
+                    "Starting Balance": 2979.229999999999
+                },
+                {
+                    "Time": 1688529600.0,
+                    "Change": 296.83,
+                    "Description": "[DN]CANADA          GST/TPS",
+                    "Final Balance": 2979.229999999999,
+                    "Starting Balance": 2682.399999999999
+                },
+                {
+                    "Time": 1688443200.0,
+                    "Change": -5000.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 2682.399999999999,
+                    "Starting Balance": 7682.4
+                },
+                {
+                    "Time": 1688443200.0,
+                    "Change": 5207.0,
+                    "Description": "[DN]        EQ BANK MSP/DIV",
+                    "Final Balance": 7682.4,
+                    "Starting Balance": 2475.3999999999996
+                },
+                {
+                    "Time": 1688097600.0,
+                    "Change": 0.01,
+                    "Description": "[IN]",
+                    "Final Balance": 2475.3999999999996,
+                    "Starting Balance": 2475.3899999999994
+                },
+                {
+                    "Time": 1687492800.0,
+                    "Change": -1500.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 2475.3899999999994,
+                    "Starting Balance": 3975.3899999999994
+                },
+                {
+                    "Time": 1687492800.0,
+                    "Change": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 3975.3899999999994,
+                    "Starting Balance": 2721.0099999999993
+                },
+                {
+                    "Time": 1686542400.0,
+                    "Change": 25.0,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    ERIC J KAPELUCK          20231611926527323",
+                    "Final Balance": 2721.0099999999993,
+                    "Starting Balance": 2696.0099999999993
+                },
+                {
+                    "Time": 1686283200.0,
+                    "Change": -194.42,
+                    "Description": "[DS]THE PERSONAL    INS/ASS",
+                    "Final Balance": 2696.0099999999993,
+                    "Starting Balance": 2890.4299999999994
+                },
+                {
+                    "Time": 1686283200.0,
+                    "Change": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 2890.4299999999994,
+                    "Starting Balance": 1636.0499999999993
+                },
+                {
+                    "Time": 1686024000.0,
+                    "Change": 388.84,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20231572016842954",
+                    "Final Balance": 1636.0499999999993,
+                    "Starting Balance": 1247.2099999999994
+                },
+                {
+                    "Time": 1685937600.0,
+                    "Change": -119.86,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     MATIAS                   2023155024743CC13",
+                    "Final Balance": 1247.2099999999994,
+                    "Starting Balance": 1367.0699999999993
+                },
+                {
+                    "Time": 1685678400.0,
+                    "Change": -360.55,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC",
+                    "Final Balance": 1367.0699999999993,
+                    "Starting Balance": 1727.6199999999992
+                },
+                {
+                    "Time": 1685592000.0,
+                    "Change": 66.13,
+                    "Description": "[CW]INTERAC ETRNSFR CANCEL   DAD                      202315221218F7C5F",
+                    "Final Balance": 1727.6199999999992,
+                    "Starting Balance": 1661.4899999999993
+                },
+                {
+                    "Time": 1685592000.0,
+                    "Change": -66.13,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     DAD                      2023152210570CB41",
+                    "Final Balance": 1661.4899999999993,
+                    "Starting Balance": 1727.6199999999994
+                },
+                {
+                    "Time": 1685505600.0,
+                    "Change": 0.01,
+                    "Description": "[IN]",
+                    "Final Balance": 1727.6199999999994,
+                    "Starting Balance": 1727.6099999999994
+                },
+                {
+                    "Time": 1685332800.0,
+                    "Change": -71.77,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     MATIAS                   20231491408EB27E5",
+                    "Final Balance": 1727.6099999999994,
+                    "Starting Balance": 1799.3799999999994
+                },
+                {
+                    "Time": 1684987200.0,
+                    "Change": -1400.0,
+                    "Description": "[TF]2259126114 RTCT0000528275",
+                    "Final Balance": 1799.3799999999994,
+                    "Starting Balance": 3199.379999999999
+                },
+                {
+                    "Time": 1684987200.0,
+                    "Change": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 3199.379999999999,
+                    "Starting Balance": 1944.999999999999
+                },
+                {
+                    "Time": 1684296000.0,
+                    "Change": -5200.0,
+                    "Description": "[CW] TF 3678#8860-245",
+                    "Final Balance": 1944.999999999999,
+                    "Starting Balance": 7144.999999999999
+                },
+                {
+                    "Time": 1684296000.0,
+                    "Change": 5168.0,
+                    "Description": "[DN]        EQ BANK MSP/DIV",
+                    "Final Balance": 7144.999999999999,
+                    "Starting Balance": 1976.999999999999
+                },
+                {
+                    "Time": 1683691200.0,
+                    "Change": -1200.0,
+                    "Description": "[TF]2259126114 RTCT0000516703",
+                    "Final Balance": 1976.999999999999,
+                    "Starting Balance": 3176.999999999999
+                },
+                {
+                    "Time": 1683691200.0,
+                    "Change": 1115.34,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 3176.999999999999,
+                    "Starting Balance": 2061.659999999999
+                },
+                {
+                    "Time": 1683604800.0,
+                    "Change": -194.42,
+                    "Description": "[DS]THE PERSONAL    INS/ASS",
+                    "Final Balance": 2061.659999999999,
+                    "Starting Balance": 2256.079999999999
+                },
+                {
+                    "Time": 1683518400.0,
+                    "Change": -927.7,
+                    "Description": "[CW] TF 3741#3970-848",
+                    "Final Balance": 2256.079999999999,
+                    "Starting Balance": 3183.779999999999
+                },
+                {
+                    "Time": 1683086400.0,
+                    "Change": -74.93,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC",
+                    "Final Balance": 3183.779999999999,
+                    "Starting Balance": 3258.7099999999987
+                },
+                {
+                    "Time": 1682654400.0,
+                    "Change": 0.01,
+                    "Description": "[IN]",
+                    "Final Balance": 3258.7099999999987,
+                    "Starting Balance": 3258.6999999999985
+                },
+                {
+                    "Time": 1682395200.0,
+                    "Change": 1115.33,
+                    "Description": "[DN]U OF A          PAY/PAY",
+                    "Final Balance": 3258.6999999999985,
+                    "Starting Balance": 2143.3699999999985
+                },
+                {
+                    "Time": 1682049600.0,
+                    "Change": 193.0,
+                    "Description": "[DN]CANADA          CAI/IAC",
+                    "Final Balance": 2143.3699999999985,
+                    "Starting Balance": 1950.3699999999985
+                },
+                {
+                    "Time": 1681704000.0,
+                    "Change": 20.0,
+                    "Description": "[CW]MOBILE CHEQUE DEPOSIT",
+                    "Final Balance": 1950.3699999999985,
+                    "Starting Balance": 1930.3699999999985
+                },
+                {
+                    "Time": 1681704000.0,
+                    "Change": 388.84,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20231072221740576",
+                    "Final Balance": 1930.3699999999985,
+                    "Starting Balance": 1541.5299999999986
+                }
+            ]
+        },
+        {
+            "name": "Chequing",
+            "current_balance": 152.3,
+            "transactions": [
+                {
+                    "Time": 1714449600.0,
+                    "Change": -1757.6,
+                    "Description": "[CW]UNIV AB TUITION",
+                    "Final Balance": 152.3,
+                    "Starting Balance": 1909.8999999999999
+                },
+                {
+                    "Time": 1714449600.0,
+                    "Change": 1757.6,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1909.8999999999999,
+                    "Starting Balance": 152.29999999999995
+                },
+                {
+                    "Time": 1705986000.0,
+                    "Change": -2305.21,
+                    "Description": "[CW]UNIV AB TUITION",
+                    "Final Balance": 152.29999999999995,
+                    "Starting Balance": 2457.51
+                },
+                {
+                    "Time": 1705986000.0,
+                    "Change": 2305.21,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 2457.51,
+                    "Starting Balance": 152.30000000000018
+                },
+                {
+                    "Time": 1699938000.0,
+                    "Change": -173.0,
+                    "Description": "[PR]RIVERBEND REGIS",
+                    "Final Balance": 152.30000000000018,
+                    "Starting Balance": 325.3000000000002
+                },
+                {
+                    "Time": 1699938000.0,
+                    "Change": 173.0,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20233181116295009",
+                    "Final Balance": 325.3000000000002,
+                    "Starting Balance": 152.30000000000018
+                },
+                {
+                    "Time": 1695182400.0,
+                    "Change": -2305.21,
+                    "Description": "[CW]UNIV AB TUITION",
+                    "Final Balance": 152.30000000000018,
+                    "Starting Balance": 2457.51
+                },
+                {
+                    "Time": 1695182400.0,
+                    "Change": 2305.21,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 2457.51,
+                    "Starting Balance": 152.30000000000018
+                },
+                {
+                    "Time": 1689134400.0,
+                    "Change": -100.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 152.30000000000018,
+                    "Starting Balance": 252.30000000000018
+                },
+                {
+                    "Time": 1688961600.0,
+                    "Change": -747.7,
+                    "Description": "[CW]UNIV AB TUITION",
+                    "Final Balance": 252.30000000000018,
+                    "Starting Balance": 1000.0000000000002
+                },
+                {
+                    "Time": 1688961600.0,
+                    "Change": 800.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1000.0000000000002,
+                    "Starting Balance": 200.00000000000023
+                },
+                {
+                    "Time": 1683518400.0,
+                    "Change": -927.7,
+                    "Description": "[CW]UNIV AB TUITION",
+                    "Final Balance": 200.00000000000023,
+                    "Starting Balance": 1127.7000000000003
+                },
+                {
+                    "Time": 1683518400.0,
+                    "Change": 927.7,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1127.7000000000003,
+                    "Starting Balance": 200.00000000000023
+                }
+            ]
+        },
+        {
+            "name": "Other 1 INVES",
+            "current_balance": 0.0,
+            "transactions": [
+                {
+                    "Time": 1714708800.0,
+                    "Change": 1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": -1000.0
+                },
+                {
+                    "Time": 1714536000.0,
+                    "Change": -2000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": -1000.0,
+                    "Starting Balance": 1000.0
+                },
+                {
+                    "Time": 1714449600.0,
+                    "Change": -1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 1000.0,
+                    "Starting Balance": 2000.0
+                },
+                {
+                    "Time": 1714449600.0,
+                    "Change": 1000.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 2000.0,
+                    "Starting Balance": 1000.0
+                },
+                {
+                    "Time": 1714104000.0,
+                    "Change": 1000.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1000.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1712894400.0,
+                    "Change": -1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 1000.0
+                },
+                {
+                    "Time": 1712721600.0,
+                    "Change": 1000.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1000.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1711512000.0,
+                    "Change": -1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 1000.0
+                },
+                {
+                    "Time": 1711512000.0,
+                    "Change": -8000.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1000.0,
+                    "Starting Balance": 9000.0
+                },
+                {
+                    "Time": 1711425600.0,
+                    "Change": 8000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 9000.0,
+                    "Starting Balance": 1000.0
+                },
+                {
+                    "Time": 1711425600.0,
+                    "Change": -1780.0,
+                    "Description": "[TF]2218096812 RTCT0000870466",
+                    "Final Balance": 1000.0,
+                    "Starting Balance": 2780.0
+                },
+                {
+                    "Time": 1711339200.0,
+                    "Change": 1780.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 2780.0,
+                    "Starting Balance": 1000.0
+                },
+                {
+                    "Time": 1711339200.0,
+                    "Change": 1000.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1000.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1710216000.0,
+                    "Change": -1300.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 1300.0
+                },
+                {
+                    "Time": 1709874000.0,
+                    "Change": 1300.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1300.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1709182800.0,
+                    "Change": -5000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 5000.0
+                },
+                {
+                    "Time": 1709010000.0,
+                    "Change": 5000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 5000.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1708923600.0,
+                    "Change": -1300.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 1300.0
+                },
+                {
+                    "Time": 1708664400.0,
+                    "Change": 1300.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1300.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1707800400.0,
+                    "Change": -1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 1000.0
+                },
+                {
+                    "Time": 1707714000.0,
+                    "Change": 1000.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1000.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1706245200.0,
+                    "Change": -1500.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 1500.0
+                },
+                {
+                    "Time": 1706158800.0,
+                    "Change": 1500.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1500.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1704949200.0,
+                    "Change": -1500.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 1500.0
+                },
+                {
+                    "Time": 1704862800.0,
+                    "Change": 1500.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1500.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1704344400.0,
+                    "Change": -7000.0,
+                    "Description": "[TF]2249194313 RTCT0000739622",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 7000.0
+                },
+                {
+                    "Time": 1704258000.0,
+                    "Change": 7000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 7000.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1703653200.0,
+                    "Change": -1500.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 1500.0
+                },
+                {
+                    "Time": 1703221200.0,
+                    "Change": 1500.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1500.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1702357200.0,
+                    "Change": -500.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 500.0
+                },
+                {
+                    "Time": 1702270800.0,
+                    "Change": 500.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 500.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1701061200.0,
+                    "Change": -1500.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 1500.0
+                },
+                {
+                    "Time": 1700802000.0,
+                    "Change": 1500.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1500.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1700542800.0,
+                    "Change": -7000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 7000.0
+                },
+                {
+                    "Time": 1700456400.0,
+                    "Change": 7000.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 7000.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1700024400.0,
+                    "Change": -500.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 500.0
+                },
+                {
+                    "Time": 1699938000.0,
+                    "Change": -1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 500.0,
+                    "Starting Balance": 1500.0
+                },
+                {
+                    "Time": 1699938000.0,
+                    "Change": 500.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1500.0,
+                    "Starting Balance": 1000.0
+                },
+                {
+                    "Time": 1699592400.0,
+                    "Change": 1000.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1000.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1697083200.0,
+                    "Change": -800.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 800.0
+                },
+                {
+                    "Time": 1696996800.0,
+                    "Change": 800.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 800.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1696478400.0,
+                    "Change": -5000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 5000.0
+                },
+                {
+                    "Time": 1696392000.0,
+                    "Change": 5000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 5000.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1695700800.0,
+                    "Change": -800.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 800.0
+                },
+                {
+                    "Time": 1695614400.0,
+                    "Change": 800.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 800.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1692244800.0,
+                    "Change": -10000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 10000.0
+                },
+                {
+                    "Time": 1692158400.0,
+                    "Change": 8000.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 10000.0,
+                    "Starting Balance": 2000.0
+                },
+                {
+                    "Time": 1692072000.0,
+                    "Change": 2000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 2000.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1691985600.0,
+                    "Change": -1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 1000.0
+                },
+                {
+                    "Time": 1691726400.0,
+                    "Change": 1000.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1000.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1690430400.0,
+                    "Change": -42000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 42000.0
+                },
+                {
+                    "Time": 1690344000.0,
+                    "Change": 42000.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 42000.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1688702400.0,
+                    "Change": -7000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 7000.0
+                },
+                {
+                    "Time": 1688529600.0,
+                    "Change": 2000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 7000.0,
+                    "Starting Balance": 5000.0
+                },
+                {
+                    "Time": 1688443200.0,
+                    "Change": 5000.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 5000.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1687752000.0,
+                    "Change": -1500.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 1500.0
+                },
+                {
+                    "Time": 1687492800.0,
+                    "Change": 1500.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 1500.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1685505600.0,
+                    "Change": -7000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 7000.0
+                },
+                {
+                    "Time": 1685419200.0,
+                    "Change": 7000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 7000.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1685073600.0,
+                    "Change": -1400.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 1400.0
+                },
+                {
+                    "Time": 1684987200.0,
+                    "Change": 1400.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 1400.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1684468800.0,
+                    "Change": -5200.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 5200.0
+                },
+                {
+                    "Time": 1684296000.0,
+                    "Change": 5200.0,
+                    "Description": "[CW] TF 3741#8962-265",
+                    "Final Balance": 5200.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1683777600.0,
+                    "Change": -1200.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 1200.0
+                },
+                {
+                    "Time": 1683691200.0,
+                    "Change": 1200.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 1200.0,
+                    "Starting Balance": 0.0
+                },
+                {
+                    "Time": 1681704000.0,
+                    "Change": -1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT",
+                    "Final Balance": 0.0,
+                    "Starting Balance": 1000.0
+                }
+            ]
+        }
+    ]
+}

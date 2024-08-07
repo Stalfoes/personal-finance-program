@@ -1,0 +1,6 @@
+{
+    "labels": {
+        ".*TUITION.*": ["tuition"],
+        ".*RIVERBEND REGIS.*": ["car registration", "car payments"]
+    }
+}

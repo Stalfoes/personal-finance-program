@@ -1,0 +1,239 @@
+﻿Following data is valid as of 20240509161738 (Year/Month/Day/Hour/Minute/Second)
+
+
+First Bank Card,Transaction Type,Date Posted, Transaction Amount,Description
+
+
+'5510290025116046',CREDIT,20230417,388.84,[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20231072221740576        
+'5510290025116046',CREDIT,20230417,20.0,[CW]MOBILE CHEQUE DEPOSIT                                                      
+'5510290025116046',CREDIT,20230421,193.0,[DN]CANADA          CAI/IAC                                                    
+'5510290025116046',CREDIT,20230425,1115.33,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',CREDIT,20230428,0.01,[IN]                                                                           
+'5510290025116046',DEBIT,20230503,-74.93,[DN]BMO PAYMENT     BPY/FAC                                                    
+'5510290025116046',DEBIT,20230508,-927.7,[CW] TF 3741#3970-848                                                          
+'5510290025116046',DEBIT,20230509,-194.42,[DS]THE PERSONAL    INS/ASS                                                    
+'5510290025116046',CREDIT,20230510,1115.34,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20230510,-1200.0,[TF]2259126114 RTCT0000516703                                                  
+'5510290025116046',CREDIT,20230517,5168.0,[DN]        EQ BANK MSP/DIV                                                    
+'5510290025116046',DEBIT,20230517,-5200.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20230525,1254.38,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20230525,-1400.0,[TF]2259126114 RTCT0000528275                                                  
+'5510290025116046',DEBIT,20230529,-71.77,[CW]INTERAC ETRNSFR SENT     MATIAS                   20231491408EB27E5        
+'5510290025116046',CREDIT,20230531,0.01,[IN]                                                                           
+'5510290025116046',DEBIT,20230601,-66.13,[CW]INTERAC ETRNSFR SENT     DAD                      2023152210570CB41        
+'5510290025116046',CREDIT,20230601,66.13,[CW]INTERAC ETRNSFR CANCEL   DAD                      202315221218F7C5F        
+'5510290025116046',DEBIT,20230602,-360.55,[DN]BMO PAYMENT     BPY/FAC                                                    
+'5510290025116046',DEBIT,20230605,-119.86,[CW]INTERAC ETRNSFR SENT     MATIAS                   2023155024743CC13        
+'5510290025116046',CREDIT,20230606,388.84,[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20231572016842954        
+'5510290025116046',CREDIT,20230609,1254.38,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20230609,-194.42,[DS]THE PERSONAL    INS/ASS                                                    
+'5510290025116046',CREDIT,20230612,25.0,[CW]INTERAC ETRNSFR RECVD    ERIC J KAPELUCK          20231611926527323        
+'5510290025116046',CREDIT,20230623,1254.38,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20230623,-1500.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20230630,0.01,[IN]                                                                           
+'5510290025116046',CREDIT,20230704,5207.0,[DN]        EQ BANK MSP/DIV                                                    
+'5510290025116046',DEBIT,20230704,-5000.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20230705,296.83,[DN]CANADA          GST/TPS                                                    
+'5510290025116046',DEBIT,20230705,-664.12,[DN]BMO PAYMENT     BPY/FAC                                                    
+'5510290025116046',CREDIT,20230710,1254.38,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20230710,-800.0,[CW] TF 3741#3970-848                                                          
+'5510290025116046',DEBIT,20230710,-612.81,[CW]INTERAC ETRNSFR SENT     DAD                      202318918411B2739        
+'5510290025116046',DEBIT,20230710,-194.42,[DS]THE PERSONAL    INS/ASS                                                    
+'5510290025116046',CREDIT,20230712,100.0,[CW] TF 3741#3970-848                                                          
+'5510290025116046',DEBIT,20230712,-1956.19,[CW]INTERAC ETRNSFR SENT     DAD                      202319314597E0CA4        
+'5510290025116046',CREDIT,20230712,1956.19,[CW]INTERAC ETRNSFR CANCEL   DAD                      2023193153374B995        
+'5510290025116046',CREDIT,20230714,193.0,[DN]CANADA          CAI/IAC                                                    
+'5510290025116046',CREDIT,20230725,1254.38,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',CREDIT,20230726,50000.0,[TF]2691-8027-528 2691                                                         
+'5510290025116046',DEBIT,20230726,-42000.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',DEBIT,20230727,-8000.0,[DS]        EQ BANK MSP/DIV                                                    
+'5510290025116046',DEBIT,20230728,-1956.19,[CW]INTERAC ETRNSFR SENT     DAD                      2023209135728B77F        
+'5510290025116046',CREDIT,20230731,0.02,[IN]                                                                           
+'5510290025116046',DEBIT,20230802,-127.63,[DN]BMO PAYMENT     BPY/FAC                                                    
+'5510290025116046',DEBIT,20230809,-188.25,[DS]THE PERSONAL    INS/ASS                                                    
+'5510290025116046',CREDIT,20230810,1254.38,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20230811,-1000.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20230815,7934.8,[DN]        EQ BANK MSP/DIV                                                    
+'5510290025116046',DEBIT,20230816,-8000.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',DEBIT,20230821,-50.0,[CW]INTERAC ETRNSFR SENT     RONY PAIN                202323117516F6994        
+'5510290025116046',CREDIT,20230825,1254.38,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',CREDIT,20230831,0.01,[IN]                                                                           
+'5510290025116046',DEBIT,20230905,-330.65,[DN]BMO PAYMENT     BPY/FAC                                                    
+'5510290025116046',CREDIT,20230908,1254.38,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20230911,-188.25,[DS]THE PERSONAL    INS/ASS                                                    
+'5510290025116046',DEBIT,20230920,-2305.21,[CW] TF 3741#3970-848                                                          
+'5510290025116046',CREDIT,20230925,66.0,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',CREDIT,20230925,1182.23,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20230925,-800.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20230929,0.01,[IN]                                                                           
+'5510290025116046',DEBIT,20231004,-239.55,[DN]BMO PAYMENT     BPY/FAC                                                    
+'5510290025116046',CREDIT,20231005,124.0,[DN]CANADA          GST/TPS                                                    
+'5510290025116046',CREDIT,20231010,66.0,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',CREDIT,20231010,1182.22,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20231010,-188.25,[DS]THE PERSONAL    INS/ASS                                                    
+'5510290025116046',DEBIT,20231011,-800.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20231013,193.0,[DN]CANADA          CAI/IAC                                                    
+'5510290025116046',CREDIT,20231025,66.0,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',CREDIT,20231025,1182.23,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',CREDIT,20231026,245.0,[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20232991550377218        
+'5510290025116046',CREDIT,20231031,0.01,[IN]                                                                           
+'5510290025116046',DEBIT,20231102,-1241.14,[DN]BMO PAYMENT     BPY/FAC                                                    
+'5510290025116046',DEBIT,20231109,-188.25,[DS]THE PERSONAL    INS/ASS                                                    
+'5510290025116046',CREDIT,20231110,1182.22,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',CREDIT,20231110,66.0,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20231110,-1000.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',DEBIT,20231114,-500.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20231117,6806.83,[DN]        EQ BANK MSP/DIV                                                    
+'5510290025116046',DEBIT,20231120,-7000.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20231123,70.0,[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20233271548160001        
+'5510290025116046',CREDIT,20231124,66.0,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',CREDIT,20231124,1182.23,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20231124,-1500.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20231130,0.01,[IN]                                                                           
+'5510290025116046',DEBIT,20231205,-255.04,[DN]BMO PAYMENT     BPY/FAC                                                    
+'5510290025116046',CREDIT,20231205,50.0,[CW]INTERAC ETRNSFR RECVD    DAVID KAPELUCK           20233391526521139        
+'5510290025116046',CREDIT,20231208,66.0,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',CREDIT,20231208,1182.22,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20231211,-500.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',DEBIT,20231211,-188.25,[DS]THE PERSONAL    INS/ASS                                                    
+'5510290025116046',CREDIT,20231219,120.15,[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20233531133407514        
+'5510290025116046',DEBIT,20231219,-38.26,[CW]INTERAC ETRNSFR SENT     RONY PAIN                20233531850CE40EB        
+'5510290025116046',CREDIT,20231222,1182.23,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',CREDIT,20231222,66.0,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20231222,-1500.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20231229,200.0,[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20233631759614728        
+'5510290025116046',CREDIT,20231229,0.01,[IN]                                                                           
+'5510290025116046',DEBIT,20240103,-321.63,[DN]BMO PAYMENT     BPY/FAC                                                    
+'5510290025116046',CREDIT,20240105,124.0,[DN]CANADA          GST/TPS                                                    
+'5510290025116046',DEBIT,20240109,-188.25,[DS]THE PERSONAL    INS/ASS                                                    
+'5510290025116046',CREDIT,20240109,376.5,[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20240091148699983        
+'5510290025116046',CREDIT,20240110,66.0,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',CREDIT,20240110,1182.03,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20240110,-1500.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20240115,193.0,[DN]CANADA          CAI/IAC                                                    
+'5510290025116046',CREDIT,20240119,15.35,[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20240191926122978        
+'5510290025116046',CREDIT,20240123,2305.21,[CW]INTERAC ETRNSFR RECVD    ERIC J KAPELUCK          20240231403139730        
+'5510290025116046',DEBIT,20240123,-2305.21,[CW] TF 3741#3970-848                                                          
+'5510290025116046',CREDIT,20240125,1295.13,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20240125,-1500.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20240131,0.01,[IN]                                                                           
+'5510290025116046',DEBIT,20240202,-191.74,[DN]BMO PAYMENT     BPY/FAC                                                    
+'5510290025116046',CREDIT,20240209,1295.13,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20240209,-188.25,[DS]THE PERSONAL    INS/ASS                                                    
+'5510290025116046',DEBIT,20240212,-1000.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20240223,1295.13,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20240223,-1300.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20240229,0.01,[IN]                                                                           
+'5510290025116046',DEBIT,20240305,-106.52,[DN]BMO PAYMENT     BPY/FAC                                                    
+'5510290025116046',CREDIT,20240308,1295.13,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20240308,-1300.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',DEBIT,20240311,-30.0,[CW]INTERAC ETRNSFR SENT     RONY PAIN                20240701218A45619        
+'5510290025116046',DEBIT,20240311,-188.25,[DS]THE PERSONAL    INS/ASS                                                    
+'5510290025116046',CREDIT,20240311,376.5,[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20240711415865841        
+'5510290025116046',CREDIT,20240325,1295.13,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20240325,-1000.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20240327,8000.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',DEBIT,20240327,-8000.0,[DS]        EQ BANK MSP/DIV                                                    
+'5510290025116046',CREDIT,20240328,0.01,[IN]                                                                           
+'5510290025116046',DEBIT,20240402,-86.06,[DN]BMO PAYMENT     BPY/FAC                                                    
+'5510290025116046',CREDIT,20240403,69.41,[DN]CANADA          RIT/RIF                                                    
+'5510290025116046',CREDIT,20240405,124.0,[DN]CANADA          GST/TPS                                                    
+'5510290025116046',CREDIT,20240405,250.0,[CW]INTERAC ETRNSFR RECVD    PETER KAPELUCK           20240961634049103        
+'5510290025116046',DEBIT,20240409,-188.25,[DS]THE PERSONAL    INS/ASS                                                    
+'5510290025116046',CREDIT,20240410,1295.13,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20240410,-1000.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20240415,225.0,[DN]CDACARBONREBATE CCR/RCC                                                    
+'5510290025116046',CREDIT,20240425,1295.13,[DN]U OF A          PAY/PAY                                                    
+'5510290025116046',DEBIT,20240426,-1000.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20240430,968.8,[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20241211224591142        
+'5510290025116046',DEBIT,20240430,-1757.6,[CW] TF 3741#3970-848                                                          
+'5510290025116046',DEBIT,20240430,-1000.0,[CW] TF 3678#8860-245                                                          
+'5510290025116046',CREDIT,20240430,0.01,[IN]                                                                           
+'5510290025116046',DEBIT,20240503,-246.93,[DN]BMO PAYMENT     BPY/FAC                                                    
+
+First Bank Card,Transaction Type,Date Posted, Transaction Amount,Description
+
+
+'5510290025116046',CREDIT,20230508,927.7,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20230508,-927.7,[CW]UNIV AB TUITION                                                            
+'5510290025116046',CREDIT,20230710,800.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20230710,-747.7,[CW]UNIV AB TUITION                                                            
+'5510290025116046',DEBIT,20230712,-100.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',CREDIT,20230920,2305.21,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20230920,-2305.21,[CW]UNIV AB TUITION                                                            
+'5510290025116046',CREDIT,20231114,173.0,[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20233181116295009        
+'5510290025116046',DEBIT,20231114,-173.0,[PR]RIVERBEND REGIS                                                            
+'5510290025116046',CREDIT,20240123,2305.21,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20240123,-2305.21,[CW]UNIV AB TUITION                                                            
+'5510290025116046',CREDIT,20240430,1757.6,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20240430,-1757.6,[CW]UNIV AB TUITION                                                            
+
+First Bank Card,Transaction Type,Date Posted, Transaction Amount,Description
+
+
+'5510290025116046',DEBIT,20230417,-1000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20230510,1200.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',DEBIT,20230511,-1200.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20230517,5200.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20230519,-5200.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20230525,1400.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',DEBIT,20230526,-1400.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20230530,7000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',DEBIT,20230531,-7000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20230623,1500.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20230626,-1500.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20230704,5000.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',CREDIT,20230705,2000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',DEBIT,20230707,-7000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20230726,42000.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20230727,-42000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20230811,1000.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20230814,-1000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20230815,2000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20230816,8000.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20230817,-10000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20230925,800.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20230926,-800.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20231004,5000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',DEBIT,20231005,-5000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20231011,800.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20231012,-800.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20231110,1000.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',CREDIT,20231114,500.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20231114,-1000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',DEBIT,20231115,-500.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20231120,7000.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20231121,-7000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20231124,1500.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20231127,-1500.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20231211,500.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20231212,-500.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20231222,1500.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20231227,-1500.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20240103,7000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',DEBIT,20240104,-7000.0,[TF]2249194313 RTCT0000739622                                                  
+'5510290025116046',CREDIT,20240110,1500.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20240111,-1500.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20240125,1500.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20240126,-1500.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20240212,1000.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20240213,-1000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20240223,1300.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20240226,-1300.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20240227,5000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',DEBIT,20240229,-5000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20240308,1300.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20240312,-1300.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20240325,1000.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',CREDIT,20240325,1780.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',DEBIT,20240326,-1780.0,[TF]2218096812 RTCT0000870466                                                  
+'5510290025116046',CREDIT,20240326,8000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',DEBIT,20240327,-8000.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20240327,-1000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20240410,1000.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20240412,-1000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20240426,1000.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',CREDIT,20240430,1000.0,[CW] TF 3741#8962-265                                                          
+'5510290025116046',DEBIT,20240430,-1000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',DEBIT,20240501,-2000.0,[NT]NT BALANCE ADJUSTMENT                                                      
+'5510290025116046',CREDIT,20240503,1000.0,[NT]NT BALANCE ADJUSTMENT                                                      

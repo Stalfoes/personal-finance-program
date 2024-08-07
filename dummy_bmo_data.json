@@ -1,0 +1,1597 @@
+{
+    "accounts": [
+        {
+            "name": "Savings",
+            "current_balance": 612.35,
+            "transactions": [
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230417",
+                    "Transaction Amount": 388.84,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20231072221740576"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230417",
+                    "Transaction Amount": 20.0,
+                    "Description": "[CW]MOBILE CHEQUE DEPOSIT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230421",
+                    "Transaction Amount": 193.0,
+                    "Description": "[DN]CANADA          CAI/IAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230425",
+                    "Transaction Amount": 1115.33,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230428",
+                    "Transaction Amount": 0.01,
+                    "Description": "[IN]"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230503",
+                    "Transaction Amount": -74.93,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230508",
+                    "Transaction Amount": -927.7,
+                    "Description": "[CW] TF 3741#3970-848"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230509",
+                    "Transaction Amount": -194.42,
+                    "Description": "[DS]THE PERSONAL    INS/ASS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230510",
+                    "Transaction Amount": 1115.34,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230510",
+                    "Transaction Amount": -1200.0,
+                    "Description": "[TF]2259126114 RTCT0000516703"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230517",
+                    "Transaction Amount": 5168.0,
+                    "Description": "[DN]        EQ BANK MSP/DIV"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230517",
+                    "Transaction Amount": -5200.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230525",
+                    "Transaction Amount": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230525",
+                    "Transaction Amount": -1400.0,
+                    "Description": "[TF]2259126114 RTCT0000528275"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230529",
+                    "Transaction Amount": -71.77,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     MATIAS                   20231491408EB27E5"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230531",
+                    "Transaction Amount": 0.01,
+                    "Description": "[IN]"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230601",
+                    "Transaction Amount": -66.13,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     DAD                      2023152210570CB41"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230601",
+                    "Transaction Amount": 66.13,
+                    "Description": "[CW]INTERAC ETRNSFR CANCEL   DAD                      202315221218F7C5F"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230602",
+                    "Transaction Amount": -360.55,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230605",
+                    "Transaction Amount": -119.86,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     MATIAS                   2023155024743CC13"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230606",
+                    "Transaction Amount": 388.84,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20231572016842954"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230609",
+                    "Transaction Amount": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230609",
+                    "Transaction Amount": -194.42,
+                    "Description": "[DS]THE PERSONAL    INS/ASS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230612",
+                    "Transaction Amount": 25.0,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    ERIC J KAPELUCK          20231611926527323"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230623",
+                    "Transaction Amount": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230623",
+                    "Transaction Amount": -1500.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230630",
+                    "Transaction Amount": 0.01,
+                    "Description": "[IN]"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230704",
+                    "Transaction Amount": 5207.0,
+                    "Description": "[DN]        EQ BANK MSP/DIV"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230704",
+                    "Transaction Amount": -5000.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230705",
+                    "Transaction Amount": 296.83,
+                    "Description": "[DN]CANADA          GST/TPS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230705",
+                    "Transaction Amount": -664.12,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230710",
+                    "Transaction Amount": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230710",
+                    "Transaction Amount": -800.0,
+                    "Description": "[CW] TF 3741#3970-848"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230710",
+                    "Transaction Amount": -612.81,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     DAD                      202318918411B2739"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230710",
+                    "Transaction Amount": -194.42,
+                    "Description": "[DS]THE PERSONAL    INS/ASS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230712",
+                    "Transaction Amount": 100.0,
+                    "Description": "[CW] TF 3741#3970-848"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230712",
+                    "Transaction Amount": -1956.19,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     DAD                      202319314597E0CA4"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230712",
+                    "Transaction Amount": 1956.19,
+                    "Description": "[CW]INTERAC ETRNSFR CANCEL   DAD                      2023193153374B995"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230714",
+                    "Transaction Amount": 193.0,
+                    "Description": "[DN]CANADA          CAI/IAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230725",
+                    "Transaction Amount": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230726",
+                    "Transaction Amount": 50000.0,
+                    "Description": "[TF]2691-8027-528 2691"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230726",
+                    "Transaction Amount": -42000.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230727",
+                    "Transaction Amount": -8000.0,
+                    "Description": "[DS]        EQ BANK MSP/DIV"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230728",
+                    "Transaction Amount": -1956.19,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     DAD                      2023209135728B77F"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230731",
+                    "Transaction Amount": 0.02,
+                    "Description": "[IN]"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230802",
+                    "Transaction Amount": -127.63,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230809",
+                    "Transaction Amount": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230810",
+                    "Transaction Amount": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230811",
+                    "Transaction Amount": -1000.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230815",
+                    "Transaction Amount": 7934.8,
+                    "Description": "[DN]        EQ BANK MSP/DIV"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230816",
+                    "Transaction Amount": -8000.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230821",
+                    "Transaction Amount": -50.0,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     RONY PAIN                202323117516F6994"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230825",
+                    "Transaction Amount": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230831",
+                    "Transaction Amount": 0.01,
+                    "Description": "[IN]"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230905",
+                    "Transaction Amount": -330.65,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230908",
+                    "Transaction Amount": 1254.38,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230911",
+                    "Transaction Amount": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230920",
+                    "Transaction Amount": -2305.21,
+                    "Description": "[CW] TF 3741#3970-848"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230925",
+                    "Transaction Amount": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230925",
+                    "Transaction Amount": 1182.23,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230925",
+                    "Transaction Amount": -800.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230929",
+                    "Transaction Amount": 0.01,
+                    "Description": "[IN]"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231004",
+                    "Transaction Amount": -239.55,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231005",
+                    "Transaction Amount": 124.0,
+                    "Description": "[DN]CANADA          GST/TPS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231010",
+                    "Transaction Amount": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231010",
+                    "Transaction Amount": 1182.22,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231010",
+                    "Transaction Amount": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231011",
+                    "Transaction Amount": -800.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231013",
+                    "Transaction Amount": 193.0,
+                    "Description": "[DN]CANADA          CAI/IAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231025",
+                    "Transaction Amount": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231025",
+                    "Transaction Amount": 1182.23,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231026",
+                    "Transaction Amount": 245.0,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20232991550377218"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231031",
+                    "Transaction Amount": 0.01,
+                    "Description": "[IN]"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231102",
+                    "Transaction Amount": -1241.14,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231109",
+                    "Transaction Amount": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231110",
+                    "Transaction Amount": 1182.22,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231110",
+                    "Transaction Amount": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231110",
+                    "Transaction Amount": -1000.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231114",
+                    "Transaction Amount": -500.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231117",
+                    "Transaction Amount": 6806.83,
+                    "Description": "[DN]        EQ BANK MSP/DIV"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231120",
+                    "Transaction Amount": -7000.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231123",
+                    "Transaction Amount": 70.0,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20233271548160001"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231124",
+                    "Transaction Amount": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231124",
+                    "Transaction Amount": 1182.23,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231124",
+                    "Transaction Amount": -1500.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231130",
+                    "Transaction Amount": 0.01,
+                    "Description": "[IN]"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231205",
+                    "Transaction Amount": -255.04,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231205",
+                    "Transaction Amount": 50.0,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    DAVID KAPELUCK           20233391526521139"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231208",
+                    "Transaction Amount": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231208",
+                    "Transaction Amount": 1182.22,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231211",
+                    "Transaction Amount": -500.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231211",
+                    "Transaction Amount": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231219",
+                    "Transaction Amount": 120.15,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20233531133407514"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231219",
+                    "Transaction Amount": -38.26,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     RONY PAIN                20233531850CE40EB"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231222",
+                    "Transaction Amount": 1182.23,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231222",
+                    "Transaction Amount": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231222",
+                    "Transaction Amount": -1500.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231229",
+                    "Transaction Amount": 200.0,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20233631759614728"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231229",
+                    "Transaction Amount": 0.01,
+                    "Description": "[IN]"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240103",
+                    "Transaction Amount": -321.63,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240105",
+                    "Transaction Amount": 124.0,
+                    "Description": "[DN]CANADA          GST/TPS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240109",
+                    "Transaction Amount": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240109",
+                    "Transaction Amount": 376.5,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20240091148699983"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240110",
+                    "Transaction Amount": 66.0,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240110",
+                    "Transaction Amount": 1182.03,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240110",
+                    "Transaction Amount": -1500.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240115",
+                    "Transaction Amount": 193.0,
+                    "Description": "[DN]CANADA          CAI/IAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240119",
+                    "Transaction Amount": 15.35,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20240191926122978"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240123",
+                    "Transaction Amount": 2305.21,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    ERIC J KAPELUCK          20240231403139730"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240123",
+                    "Transaction Amount": -2305.21,
+                    "Description": "[CW] TF 3741#3970-848"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240125",
+                    "Transaction Amount": 1295.13,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240125",
+                    "Transaction Amount": -1500.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240131",
+                    "Transaction Amount": 0.01,
+                    "Description": "[IN]"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240202",
+                    "Transaction Amount": -191.74,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240209",
+                    "Transaction Amount": 1295.13,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240209",
+                    "Transaction Amount": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240212",
+                    "Transaction Amount": -1000.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240223",
+                    "Transaction Amount": 1295.13,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240223",
+                    "Transaction Amount": -1300.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240229",
+                    "Transaction Amount": 0.01,
+                    "Description": "[IN]"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240305",
+                    "Transaction Amount": -106.52,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240308",
+                    "Transaction Amount": 1295.13,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240308",
+                    "Transaction Amount": -1300.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240311",
+                    "Transaction Amount": -30.0,
+                    "Description": "[CW]INTERAC ETRNSFR SENT     RONY PAIN                20240701218A45619"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240311",
+                    "Transaction Amount": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240311",
+                    "Transaction Amount": 376.5,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20240711415865841"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240325",
+                    "Transaction Amount": 1295.13,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240325",
+                    "Transaction Amount": -1000.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240327",
+                    "Transaction Amount": 8000.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240327",
+                    "Transaction Amount": -8000.0,
+                    "Description": "[DS]        EQ BANK MSP/DIV"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240328",
+                    "Transaction Amount": 0.01,
+                    "Description": "[IN]"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240402",
+                    "Transaction Amount": -86.06,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240403",
+                    "Transaction Amount": 69.41,
+                    "Description": "[DN]CANADA          RIT/RIF"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240405",
+                    "Transaction Amount": 124.0,
+                    "Description": "[DN]CANADA          GST/TPS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240405",
+                    "Transaction Amount": 250.0,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    PETER KAPELUCK           20240961634049103"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240409",
+                    "Transaction Amount": -188.25,
+                    "Description": "[DS]THE PERSONAL    INS/ASS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240410",
+                    "Transaction Amount": 1295.13,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240410",
+                    "Transaction Amount": -1000.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240415",
+                    "Transaction Amount": 225.0,
+                    "Description": "[DN]CDACARBONREBATE CCR/RCC"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240425",
+                    "Transaction Amount": 1295.13,
+                    "Description": "[DN]U OF A          PAY/PAY"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240426",
+                    "Transaction Amount": -1000.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240430",
+                    "Transaction Amount": 968.8,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20241211224591142"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240430",
+                    "Transaction Amount": -1757.6,
+                    "Description": "[CW] TF 3741#3970-848"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240430",
+                    "Transaction Amount": -1000.0,
+                    "Description": "[CW] TF 3678#8860-245"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240430",
+                    "Transaction Amount": 0.01,
+                    "Description": "[IN]"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240503",
+                    "Transaction Amount": -246.93,
+                    "Description": "[DN]BMO PAYMENT     BPY/FAC"
+                }
+            ]
+        },
+        {
+            "name": "Chequing",
+            "current_balance": 152.3,
+            "transactions": [
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230508",
+                    "Transaction Amount": 927.7,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230508",
+                    "Transaction Amount": -927.7,
+                    "Description": "[CW]UNIV AB TUITION"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230710",
+                    "Transaction Amount": 800.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230710",
+                    "Transaction Amount": -747.7,
+                    "Description": "[CW]UNIV AB TUITION"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230712",
+                    "Transaction Amount": -100.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230920",
+                    "Transaction Amount": 2305.21,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230920",
+                    "Transaction Amount": -2305.21,
+                    "Description": "[CW]UNIV AB TUITION"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231114",
+                    "Transaction Amount": 173.0,
+                    "Description": "[CW]INTERAC ETRNSFR RECVD    JAMES B KAPELUCK         20233181116295009"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231114",
+                    "Transaction Amount": -173.0,
+                    "Description": "[PR]RIVERBEND REGIS"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240123",
+                    "Transaction Amount": 2305.21,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240123",
+                    "Transaction Amount": -2305.21,
+                    "Description": "[CW]UNIV AB TUITION"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240430",
+                    "Transaction Amount": 1757.6,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240430",
+                    "Transaction Amount": -1757.6,
+                    "Description": "[CW]UNIV AB TUITION"
+                }
+            ]
+        },
+        {
+            "name": "Other 1 INVES",
+            "current_balance": 0.0,
+            "transactions": [
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230417",
+                    "Transaction Amount": -1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230510",
+                    "Transaction Amount": 1200.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230511",
+                    "Transaction Amount": -1200.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230517",
+                    "Transaction Amount": 5200.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230519",
+                    "Transaction Amount": -5200.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230525",
+                    "Transaction Amount": 1400.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230526",
+                    "Transaction Amount": -1400.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230530",
+                    "Transaction Amount": 7000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230531",
+                    "Transaction Amount": -7000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230623",
+                    "Transaction Amount": 1500.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230626",
+                    "Transaction Amount": -1500.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230704",
+                    "Transaction Amount": 5000.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230705",
+                    "Transaction Amount": 2000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230707",
+                    "Transaction Amount": -7000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230726",
+                    "Transaction Amount": 42000.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230727",
+                    "Transaction Amount": -42000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230811",
+                    "Transaction Amount": 1000.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230814",
+                    "Transaction Amount": -1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230815",
+                    "Transaction Amount": 2000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230816",
+                    "Transaction Amount": 8000.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230817",
+                    "Transaction Amount": -10000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20230925",
+                    "Transaction Amount": 800.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20230926",
+                    "Transaction Amount": -800.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231004",
+                    "Transaction Amount": 5000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231005",
+                    "Transaction Amount": -5000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231011",
+                    "Transaction Amount": 800.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231012",
+                    "Transaction Amount": -800.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231110",
+                    "Transaction Amount": 1000.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231114",
+                    "Transaction Amount": 500.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231114",
+                    "Transaction Amount": -1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231115",
+                    "Transaction Amount": -500.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231120",
+                    "Transaction Amount": 7000.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231121",
+                    "Transaction Amount": -7000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231124",
+                    "Transaction Amount": 1500.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231127",
+                    "Transaction Amount": -1500.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231211",
+                    "Transaction Amount": 500.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231212",
+                    "Transaction Amount": -500.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20231222",
+                    "Transaction Amount": 1500.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20231227",
+                    "Transaction Amount": -1500.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240103",
+                    "Transaction Amount": 7000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240104",
+                    "Transaction Amount": -7000.0,
+                    "Description": "[TF]2249194313 RTCT0000739622"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240110",
+                    "Transaction Amount": 1500.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240111",
+                    "Transaction Amount": -1500.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240125",
+                    "Transaction Amount": 1500.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240126",
+                    "Transaction Amount": -1500.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240212",
+                    "Transaction Amount": 1000.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240213",
+                    "Transaction Amount": -1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240223",
+                    "Transaction Amount": 1300.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240226",
+                    "Transaction Amount": -1300.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240227",
+                    "Transaction Amount": 5000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240229",
+                    "Transaction Amount": -5000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240308",
+                    "Transaction Amount": 1300.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240312",
+                    "Transaction Amount": -1300.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240325",
+                    "Transaction Amount": 1000.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240325",
+                    "Transaction Amount": 1780.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240326",
+                    "Transaction Amount": -1780.0,
+                    "Description": "[TF]2218096812 RTCT0000870466"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240326",
+                    "Transaction Amount": 8000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240327",
+                    "Transaction Amount": -8000.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240327",
+                    "Transaction Amount": -1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240410",
+                    "Transaction Amount": 1000.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240412",
+                    "Transaction Amount": -1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240426",
+                    "Transaction Amount": 1000.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240430",
+                    "Transaction Amount": 1000.0,
+                    "Description": "[CW] TF 3741#8962-265"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240430",
+                    "Transaction Amount": -1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "DEBIT",
+                    "Date Posted": "20240501",
+                    "Transaction Amount": -2000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                },
+                {
+                    "First Bank Card": "5510290025116046",
+                    "Transaction Type": "CREDIT",
+                    "Date Posted": "20240503",
+                    "Transaction Amount": 1000.0,
+                    "Description": "[NT]NT BALANCE ADJUSTMENT"
+                }
+            ]
+        }
+    ]
+}

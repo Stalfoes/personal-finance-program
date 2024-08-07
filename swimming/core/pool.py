@@ -8,6 +8,13 @@ class Pool:
         Pool.pools[self.name] = self
         self.balance = starting_balance
         self.checkpoints:list[dict[str,float]] = [{'time':time.time(), 'balance':self.balance, 'change':0.0}]
+    @classmethod
+    def load_from_data(cls, data:dict):
+        name = data['name']
+        p = cls(name, 0)
+        p.checkpoints = sorted([{'time':trans['Time'], 'balance':trans['Final Balance'], 'change':trans['Change']}
+                                for trans in data['transactions']], key=lambda d: d['time'])
+        p.balance = p.checkpoints[-1]['balance']
     def __del__(self):
         del Pool.pools[self.name]
     @property

@@ -1,4 +1,5 @@
 ################### TIME ###################
+import time
 
 SECONDS_PER_MINUTE = 60
 MINUTES_PER_HOUR = 60
@@ -18,3 +19,7 @@ def hours(start_time:float, end_time:float) -> float:
 def days(start_time:float, end_time:float) -> float:
     dhours = hours(start_time, end_time)
     return dhours / HOURS_PER_DAY
+
+def from_yyyymmdd_to_time(yyyymmdd:str) -> float:
+    struct_time = time.strptime(yyyymmdd, '%Y%m%d')
+    return time.mktime(struct_time)
