@@ -1,0 +1,16 @@
+<div class="max-w-2xl mx-auto mt-10 p-6 border-2 border-dashed border-gray-400 rounded-lg text-center hover:bg-gray-50 transition">
+    <h3 class="text-lg font-medium text-gray-900">Upload Bank Statement</h3>
+    <p class="text-sm text-gray-500 mt-1">Drag and drop your .ofx or .qfx file here</p>
+    
+    <form hx-post="/api/upload-ofx" 
+          hx-encoding="multipart/form-data" 
+          hx-target="#review-container" 
+          hx-on::after-request="document.getElementById('upload-dialog').close(); document.getElementById('review-dialog').showModal();"
+          class="mt-4">
+        
+        <input type="file" name="file" accept=".ofx,.qfx" class="mb-4">
+        <button type="submit" class="bg-blue-600 text-white px-4 py-2 rounded shadow">
+            Process File
+        </button>
+    </form>
+</div>

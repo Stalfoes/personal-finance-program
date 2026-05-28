@@ -1,0 +1,199 @@
+<!-- JINJA MACROS -->
+<!-- This macro generates a color-coded Select Dropdown "Pill" -->
+{% macro confidence_pill(name, field_data, available_options, is_merchant=false) %}
+    {% set is_user = field_data.get('is_user', false) %}
+    {% set conf = field_data.get('confidence', 0) %}
+    {% set val = field_data.get('value', '') %}
+    
+    <!-- Color Logic: 0=Red, 120=Green. If user-edited, use Gray -->
+    {% set hue = conf * 1.2 %}
+    {% set dynamic_style = 'background-color: hsl(' ~ hue ~ ', 80%, 85%); color: hsl(' ~ hue ~ ', 90%, 25%);' if not is_user else 'background-color: #e5e7eb; color: #374151;' %}
+    <div class="relative inline-flex items-center">
+        <select name="{{ name }}" 
+                class="pill-select text-xs font-semibold rounded-full pl-3 pr-9 py-1 border-0 shadow-sm cursor-pointer focus:ring-2 focus:ring-blue-400 appearance-none"
+                style="{{ dynamic_style }}"
+                onchange="handlePillChange(this)">
+            
+            <!-- Empty default if nothing was guessed -->
+            <option value="" {% if not val %}selected{% endif %}>(None)</option>
+            
+            <!-- Render available choices -->
+            {% for option in available_options %}
+                <option value="{{ option }}" {% if option == val %}selected{% endif %}>
+                    {{ option }}
+                </option>
+            {% endfor %}
+            
+            <!-- The currently guessed value (if it somehow isn't in the options list yet) -->
+            {% if val and val not in available_options %}
+                <option value="{{ val }}" selected>{{ val }}</option>
+            {% endif %}
+            
+            <option disabled>──────────</option>
+            <option value="__ADD_NEW__">+ Add New...</option>
+        </select>
+        
+        <!-- A tiny absolute badge to show the confidence percentage inside the pill -->
+        {% if not is_user and val %}
+            <span class="absolute right-2 text-[10px] font-mono pointer-events-none opacity-80">{{ conf }}%</span>
+        {% endif %}
+    </div>        
+{% endmacro %}
+
+
+<!-- MAIN COMPONENT -->
+<form hx-post="/api/save-transactions" hx-target="#review-container" class="flex flex-col h-full max-h-[85vh]">
+    
+    <p class="text-sm text-gray-500 mb-4">Correct any values that may be wrong. Values are coloured according to the confidence of our Category AI. Manual user changes turn grey.</p>
+    <p class="text-sm text-gray-500 mb-4">AI Confidence is displayed from 100% (green) to 0% (red).</p>
+    
+    <!-- Scrollable Table Container -->
+    <div class="overflow-x-auto overflow-y-auto border rounded-lg shadow flex-grow">
+        <table class="w-full text-left border-collapse whitespace-nowrap text-sm">
+            <thead class="sticky top-0 bg-gray-100 z-10 shadow-sm">
+                <tr>
+                    <th class="p-2 border font-semibold">From Node</th>
+                    <th class="p-2 border font-semibold">To Node</th>
+                    <th class="p-2 border font-semibold">Date & Time</th>
+                    <th class="p-2 border font-semibold">Amount</th>
+                    <th class="p-2 border font-semibold">Desc / Memo</th>
+                    <th class="p-2 border font-semibold">Merchant</th>
+                    <th class="p-2 border font-semibold">With Whom</th>
+                    <th class="p-2 border font-semibold min-w-[300px]">Dimensions (N-Space)</th>
+                </tr>
+            </thead>
+            <tbody class="divide-y divide-gray-200">
+                {% for tx in transactions %}
+                <tr class="hover:bg-gray-50 transition">
+                    <!-- Hidden ID -->
+                    <input type="hidden" name="tx_id[]" value="{{ tx.id }}">
+                    
+                    <!-- Nodes -->
+                    <td class="p-2 border">
+                        {{ confidence_pill('from_node_'~tx.id, tx.from_node, global_nodes) }}
+                    </td>
+                    <td class="p-2 border">
+                        {{ confidence_pill('to_node_'~tx.id, tx.to_node, global_nodes) }}
+                    </td>
+                    
+                    <!-- Date -->
+                    <td class="p-2 border">
+                        <input type="text" name="time_{{ tx.id }}" value="{{ tx.time }}" class="w-36 border-gray-300 rounded p-1 text-xs focus:ring focus:ring-blue-200">
+                    </td>
+                    
+                    <!-- Amount & Currency -->
+                    <td class="p-2 border font-mono">
+                        <div class="flex items-center gap-1">
+                            <span>$</span>
+                            <!-- Divide integer cents by 100 to get decimal -->
+                            <input type="number" step="0.01" name="amount_{{ tx.id }}" value="{{ '%.2f'|format(tx.amount / 100) }}" class="w-20 border-gray-300 rounded p-1 text-xs focus:ring focus:ring-blue-200 text-right">
+                            <span class="text-xs text-gray-500">{{ tx.currency }}</span>
+                        </div>
+                    </td>
+                    
+                    <!-- Description & Memo -->
+                    <td class="p-2 border">
+                        <input type="text" name="desc_{{ tx.id }}" value="{{ tx.description }}" class="w-full border-gray-300 rounded p-1 text-xs mb-1 focus:ring focus:ring-blue-200" title="Raw Description">
+                        <br>
+                        <input type="text" name="memo_{{ tx.id }}" value="{{ tx.user_memo }}" placeholder="User memo..." class="w-full bg-gray-50 border-gray-200 border rounded p-1 text-xs focus:ring focus:ring-blue-200 text-gray-600">
+                    </td>
+                    
+                    <!-- Merchant -->
+                    <td class="p-2 border">
+                        {{ confidence_pill('merchant_'~tx.id, tx.merchant, global_merchants, true) }}
+                    </td>
+                    
+                    <!-- With Whom (Text input for comma separated names) -->
+                    <td class="p-2 border">
+                        <input type="text" name="with_whom_{{ tx.id }}" value="{{ tx.with_whom|join(', ') }}" placeholder="Mom, Dad..." class="w-32 border-gray-300 rounded p-1 text-xs focus:ring focus:ring-blue-200">
+                    </td>
+                    
+                    <!-- Dimensions (Flex Wrap Container) -->
+                    <td class="p-2 border">
+                        <div class="flex flex-wrap gap-2 items-center">
+                            <!-- Loop through all available dimension keys (WHAT, HOW, WHERE, etc.) -->
+                            {% for dim_key in ['WHAT', 'FOR_WHOM', 'HOW', 'FREQUENCY', 'WHERE', 'PROJECT', 'FLEXIBILITY', 'TAX_STATUS', 'LIFESPAN', 'IMPORTANCE', 'REGRET'] %}
+                                {% set dim_data = tx.dimensions.get(dim_key, {}) %}
+                                {% set available_choices = global_dimensions.get(dim_key, []) %}
+                                
+                                <div class="flex items-center bg-white border border-gray-200 rounded-full pl-2 overflow-hidden shadow-sm">
+                                    <span class="text-[10px] font-bold text-gray-400 mr-1 uppercase tracking-wider">{{ dim_key }}</span>
+                                    {{ confidence_pill('dim_'~tx.id~'_'~dim_key, dim_data, available_choices) }}
+                                </div>
+                            {% endfor %}
+                        </div>
+                    </td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    
+    <!-- Footer Actions -->
+    <div class="mt-4 flex justify-end gap-4 shrink-0">
+        <button type="button" onclick="document.getElementById('review-dialog').close()" class="px-6 py-2 rounded shadow bg-gray-200 text-gray-800 hover:bg-gray-300 font-semibold transition">
+            Cancel
+        </button>
+        <button type="submit" class="bg-blue-600 text-white px-6 py-2 rounded shadow hover:bg-blue-700 font-semibold transition">
+            Confirm & Save to Database
+        </button>
+    </div>
+</form>
+
+<!-- INLINE JAVASCRIPT FOR INTERACTIVITY -->
+<script>
+    function handlePillChange(selectElement) {
+        // 1. Handle "Add New..."
+        if (selectElement.value === "__ADD_NEW__") {
+            // Ask the user for the new hierarchy value
+            const newValue = prompt("Enter the new value (e.g. Grandparent:Parent:Leaf):");
+            
+            if (newValue && newValue.trim() !== "") {
+                // Create a new <option> and select it
+                const newOption = new Option(newValue.trim(), newValue.trim(), true, true);
+                
+                // Insert it right before the dashed line "----------"
+                const dashedLine = Array.from(selectElement.options).find(opt => opt.disabled);
+                selectElement.insertBefore(newOption, dashedLine);
+                
+                // Optionally: Send an async fetch request to FastAPI here to save it to the DB instantly
+                /*
+                fetch('/api/add-category', {
+                    method: 'POST',
+                    headers: {'Content-Type': 'application/json'},
+                    body: JSON.stringify({ category: selectElement.name, value: newValue.trim() })
+                });
+                */
+            } else {
+                // User cancelled, reset to the first option
+                selectElement.selectedIndex = 0;
+            }
+        }
+        
+        // 2. The user has manually changed the value. 
+        // Turn the pill Gray to signify "Human Verified" and strip the confidence badge.
+        selectElement.style.backgroundColor = '#e5e7eb'; // Tailwind gray-200
+        
+        // Find the adjacent confidence badge and hide it
+        const nextSibling = selectElement.nextElementSibling;
+        if (nextSibling && nextSibling.tagName === 'SPAN') {
+            nextSibling.style.display = 'none';
+        }
+    }
+</script>
+
+<style>
+    /* Styling to make the select elements look like native UI pills */
+    .pill-select {
+        text-align: center;
+        text-align-last: center;
+        outline: none;
+    }
+    /* Hide the native dropdown arrow to make it look purely like a pill */
+    .pill-select::-ms-expand { display: none; }
+    .pill-select {
+        -webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;
+    }
+</style>

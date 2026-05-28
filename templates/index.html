@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Finance App</title>
+    <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://unpkg.com/d3-sankey@0.12.3/dist/d3-sankey.min.js"></script>
+      <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>    
+    
+    <style>
+        body { font-family: sans-serif; padding: 20px; }
+        nav button { padding: 10px 15px; margin-right: 5px; cursor: pointer; }
+        #main-content { margin-top: 20px; border: 1px solid #ccc; padding: 20px; min-height: 400px; }
+        /* Add some smooth transitions for SVG elements */
+        .link-path { transition: opacity 0.3s ease-in-out; cursor: pointer; }
+        .node-group { cursor: pointer; transition: opacity 0.3s ease-in-out; }
+        .node-glow { transition: opacity 0.3s ease-in-out; }
+        .link-label { transition: opacity 0.3s ease-in-out; pointer-events: none; }
+    </style>
+</head>
+<body>
+
+    <h1>My Financial Application</h1>
+
+    <nav>
+        <button hx-get="/tab/home" hx-target="#main-content">Home</button>
+        <button hx-get="/tab/sankey" hx-target="#main-content">Sankey Diagram</button>
+        <button hx-get="/tab/networth" hx-target="#main-content">Net Worth</button>
+        <button
+            class="text-xs font-semibold bg-blue-50 text-blue-600 rounded hover:bg-blue-100 transition p-2"
+            onclick="document.getElementById('upload-dialog').showModal()">
+            Upload Data
+        </button>
+    </nav>
+
+    <div id="main-content">
+        <h2>Home</h2>
+        <p>Welcome to your personal finance dashboard.</p>
+    </div>
+
+    <dialog id="upload-dialog" class="p-6 rounded-lg shadow-xl backdrop:bg-black/50 backdrop:backdrop-blur-sm open:animate-fade-in">
+        <div class="flex justify-between items-center mb-4">
+            <h3 class="text-lg font-bold">Upload Bank Statement</h3>
+            <button 
+                onclick="document.getElementById('upload-dialog').close()"
+                class="text-gray-500 hover:text-red-500 font-bold">
+                &times;
+            </button>
+        </div>
+        {% include 'components/upload_form.html' %}
+    </dialog>
+
+    <dialog id="review-dialog" class="p-6 rounded-lg shadow-xl backdrop:bg-black/50 backdrop:backdrop-blur-sm open:animate-fade-in min-w-[80vw]">
+        <div class="flex justify-between items-center mb-4">
+            <h2 class="text-lg font-bold">Review AI Categorization</h3>
+            <button 
+                onclick="document.getElementById('review-dialog').close()"
+                class="text-gray-500 hover:text-red-500 font-bold">
+                &times;
+            </button>
+        </div>
+        <div id="review-container"></div>
+    </dialog>
+
+</body>
+
+<!-- TABS' SCRIPTS -->
+<script src="/static/networth.js"></script>
+<script src="/static/sankey.js"></script>
+</html>
