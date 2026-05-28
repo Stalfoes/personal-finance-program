@@ -1,0 +1,103 @@
+COLUMNS
+    ID
+    FIT_ID: the id that comes from the OFX and QFX file. used to help for duplicate detection
+    TIME
+    FROM_NODE_ID
+    TO_NODE_ID
+    AMOUNT: the dollar amount multiplied by 100. Stored as an integer (10.57 -> 1057)
+    CURRENCY: preferably this is always "CAD" but maybe sometimes it isn't posted in CAD, so we'd want to record that here
+    DESCRIPTION
+    MERCHANT_ID: foreign key to a table that stores a merchant name and a more readable clean name
+    USER_MEMO: Something the user can just add themselves for more clarity
+    WITH_WHOM: Just some set of people names
+    DIMENSIONS:
+        WHAT (hierarchical): the economic good
+            Entertainment
+                Video
+                    Movie Theatre
+                    Television
+                Music
+                    Concert
+                    Album
+                Video Games
+                    PC
+                Activity
+            Food
+                Dining
+                Groceries
+                Quick Service
+                Food truck
+            Vacation
+                Hotel
+                Car
+                Flight
+            Fitness
+                Gym
+        FOR WHOM: who received the economic value?
+            Myself
+            Mom
+            Dad
+            Eric
+            Daisy
+            Rony
+            Mackenzie
+        HOW: the mechanism in which the product was delivered at the time the value was consumed
+            Delivery
+            In-person
+            Pick up
+            Digital
+        FREQUENCY: is this a part of something more frequent or no?
+            One-Time
+            Subscription
+            Installment
+        WHERE (hierarchical): the place where the value was consumed
+            Canada:
+                Alberta:
+                    Edmonton:
+                        University
+                        West Edmonton Mall
+            United States:
+                Chicago
+            Japan:
+                Hokkaido:
+                    Chitose
+                    Niseko
+                Honshu:
+                    Tokyo:
+                        Asakusa
+                        Shinjuku
+                        Shibuya
+                        Shinagawa
+                        Minato
+                    Yokohama
+                    Hiroshima
+                    Miyajima
+                    Miyajima-Guchi
+                    Kyoto
+                    Osaka
+        PROJECT/INITIATIVE: keeps track of "why" this purchase was made? toward what goal?
+            JapanMarch2026
+            HomeRenovation
+            BasicLife
+        FLEXIBILITY: is this something that is the most basic of life necessities? can I stop paying this in my situation?
+            Fixed
+            Variable
+        TAX_STATUS: maybe this will be useful in the future for tax purposes. Might as well toss it in here
+            Personal
+            Business Deductible
+            Medical
+            Charity
+        LIFESPAN: Is this something consumable or is it multi-use?
+            Consumable
+            Durable
+        IMPORTANCE: a behaviour tracker. How important did I feel this purchase was?
+            Vital
+            Important
+            Luxury
+            Waste
+        REGRET: a behaviour tracker. How much do I regret this purchase?
+            None
+            Small
+            Somewhat
+            Mostly
+            Fully

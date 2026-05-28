@@ -1,0 +1,69 @@
+<!-- <script src="https://unpkg.com/htmx.org@1.9.10"></script> -->
+
+<!-- HTMX Data Store (MOCK) -->
+<!-- 
+FASTAPI INTEGRATION NOTE: 
+When you want to update the chart (e.g. user selects a different month), 
+you can trigger an hx-get on this container. Your FastAPI backend should 
+return ONLY the <script type="application/json" id="chart-data"> block with the new data.
+-->
+<div id="data-store" style="display: none;">
+    <script id="chart-data" data-chart-type="sankey" type="application/json">
+        {{ chart_data | safe }}
+    </script>
+</div>
+
+
+<!-- UI Layout -->
+<div class="max-w-6xl mx-auto mb-8 flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
+    <div>
+        <h1 class="text-3xl font-bold tracking-tight text-slate-900 flex items-center gap-2">
+        <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-blue-600"><path d="M21.21 15.89A10 10 0 1 1 8 2.83"></path><path d="M22 12A10 10 0 0 0 12 2v10z"></path></svg>
+        Cash Flow Explorer
+        </h1>
+        <p class="text-slate-500 mt-1">Visualize your money as interconnected pools.</p>
+    </div>
+
+    <!-- Controls -->
+    <div class="flex bg-white rounded-lg p-1 border border-slate-200 shadow-sm">
+        <div class="px-3 py-1 text-sm font-medium text-slate-500 border-r border-slate-100 flex items-center gap-2">
+            Curve Style
+        </div>
+        <button id="btn-tension-direct" class="px-3 py-1 text-sm font-medium rounded-md transition-colors text-slate-500 hover:text-slate-700">
+            Direct
+        </button>
+        <button id="btn-tension-flowing" class="px-3 py-1 text-sm font-medium rounded-md transition-colors bg-slate-100 text-slate-900">
+            Flowing
+        </button>
+        
+        <!-- Example button to show how you'd trigger HTMX to reload data from FastAPI -->
+        <div class="px-2 flex items-center border-l border-slate-100 ml-1">
+          <button hx-get="/api/sankey-data" hx-target="#data-store" class="text-xs font-semibold bg-blue-50 text-blue-600 px-2 py-1 rounded hover:bg-blue-100 transition">
+             Reload Data
+          </button>
+      </div>
+    </div>
+</div>
+
+<!-- Main Diagram Area -->
+<div class="max-w-6xl mx-auto bg-white rounded-2xl shadow-xl shadow-slate-200/50 border border-slate-100 overflow-hidden relative">
+    <!-- Quick Stats Overlay -->
+    <div class="absolute top-6 left-6 flex gap-4 pointer-events-none z-10">
+        <div class="bg-white/80 backdrop-blur-md px-4 py-2 rounded-xl border border-slate-200 shadow-sm">
+            <div class="text-xs text-slate-500 font-semibold uppercase tracking-wider">Total In</div>
+            <div id="stat-total-in" class="text-xl font-bold text-green-600">$7,700</div>
+        </div>
+        <div class="bg-white/80 backdrop-blur-md px-4 py-2 rounded-xl border border-slate-200 shadow-sm">
+            <div class="text-xs text-slate-500 font-semibold uppercase tracking-wider">Total Out</div>
+            <div id="stat-total-out" class="text-xl font-bold text-blue-600">$7,700</div>
+        </div>
+    </div>
+    <!-- Drawing Canvas -->
+    <div id="chart-container" class="w-full h-[650px]">
+        <svg id="d3-svg" width="100%" height="100%" class="block"></svg>
+    </div>
+</div>
+
+<div class="max-w-6xl mx-auto mt-6 text-center text-slate-500 text-sm">
+<p>Hover over any pool or flow to isolate its connections. Edge amounts are placed at the exact midpoint of the curve.</p>
+</div>
